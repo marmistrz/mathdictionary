@@ -1,1 +1,1 @@
-A list of mathematical words for spellchecking
+A list of mathematical words for spellcheck. PRs welcome!
